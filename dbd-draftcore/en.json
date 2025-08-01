@@ -1,0 +1,310 @@
+{
+  "contact": "contact",
+  "faq": "FAQ",
+  "terms and conditions": "terms & conditions",
+  "privacy policy": "privacy policy",
+  "We use a single essential cookie to authenticate users": "We use a single essential cookie to authenticate users.",
+  "No tracking technologies or third-party data sharing involded": "No tracking technologies or third-party data sharing involded",
+
+  "draftCreator": {
+    "team": "team",
+    "format": "format",
+    "bo1": "bo1",
+    "bo2": "bo2",
+    "bo3": "bo3",
+    "bo4": "bo4",
+    "bans": "bans",
+    "adittional settings": "additional settings",
+    "disable maps": "disable maps",
+    "disable killers": "disable killers",
+    "create draft": "create draft"
+  },
+
+  "action": {
+    "login": "login",
+    "got it": "got it",
+    "cancel": "cancel",
+    "save": "save",
+    "continue": "continue",
+    "delete": "delete",
+    "create draft": "create draft",
+    "add realm": "add realm",
+    "add map": "add map",
+    "add killer": "add killer"
+  },
+
+  "dashboard": {
+    "tabs": {
+      "general": "general",
+      "users": "users",
+      "drafts": "drafts",
+      "realms": "realms",
+      "maps": "maps",
+      "killers": "killers"
+    },
+    "general": {
+      "drafts created": "drafts created",
+      "users": "users",
+      "maps": "maps",
+      "killers": "killers"
+    },
+    "users": {
+      "ID": "ID",
+      "name": "name",
+      "permissions": "permissions",
+      "actions": "actions"
+    },
+    "drafts": {
+      "ID": "ID",
+      "teams": "teams",
+      "format": "format",
+      "bans": "bans",
+      "created": "created",
+      "actions": "actions"
+    },
+    "realms": {
+      "image": "image",
+      "name": "name",
+      "maps": "maps",
+      "actions": "actions",
+      "Create realm": "Create realm",
+      "Enter the details for the new realm": "Enter the details for the new realm.",
+      "Realm name": "Realm name",
+      "name placeholder": "name",
+      "Realm image URL": "Realm image URL",
+      "url placeholder": "image URL"
+    }
+  },
+
+  "realms": {
+    "The MacMillan Estate": "The MacMillan Estate",
+    "Autohaven Wreckers": "Autohaven Wreckers",
+    "Coldwind Farm": "Coldwind Farm",
+    "Crotus Prenn Asylum": "Crotus Prenn Asylum",
+    "Haddonfield": "Haddonfield",
+    "Backwater Swamp": "Backwater Swamp",
+    "Léry's Memorial Institute": "Léry's Memorial Institute",
+    "Red Forest": "Red Forest",
+    "Springwood": "Springwood",
+    "Gideon Meat Plant": "Gideon Meat Plant",
+    "Yamaoka Estate": "Yamaoka Estate",
+    "Ormond": "Ormond",
+    "Hawkins National Laboratory": "Hawkins National Laboratory",
+    "Grave of Glenvale": "Grave of Glenvale",
+    "Silent Hill": "Silent Hill",
+    "Raccoon City": "Raccoon City",
+    "Forsaken Boneyard": "Forsaken Boneyard",
+    "Withered Isle": "Withered Isle",
+    "The Decimated Borgo": "The Decimated Borgo",
+    "Dvarka Deepwood": "Dvarka Deepwood"
+  },
+
+  "maps": {
+    "Coal Tower": "Coal Tower",
+    "Groaning Storehouse": "Groaning Storehouse",
+    "Ironworks of Misery": "Ironworks of Misery",
+    "Shelter Woods": "Shelter Woods",
+    "Suffocation Pit": "Suffocation Pit",
+    "Azarov's Resting Place": "Azarov's Resting Place",
+    "Blood Lodge": "Blood Lodge",
+    "Gas Heaven": "Gas Heaven",
+    "Wreckers' Yard": "Wreckers' Yard",
+    "Wretched Shop": "Wretched Shop",
+    "Fractured Cowshed": "Fractured Cowshed",
+    "Rancid Abattoir": "Rancid Abattoir",
+    "Rotten Fields": "Rotten Fields",
+    "The Thompson House": "The Thompson House",
+    "Torment Creek": "Torment Creek",
+    "Disturbed Ward": "Disturbed Ward",
+    "Father Campbell's Chapel": "Father Campbell's Chapel",
+    "Lampkin Lane": "Lampkin Lane",
+    "The Pale Rose": "The Pale Rose",
+    "Grim Pantry": "Grim Pantry",
+    "Treatment Theatre": "Treatment Theatre",
+    "Mother's Dwelling": "Mother's Dwelling",
+    "The Temple of Purgation": "The Temple of Purgation",
+    "Badham Preschool": "Badham Preschool",
+    "The Game": "The Game",
+    "Family Residence": "Family Residence",
+    "Sanctum of Wrath": "Sanctum of Wrath",
+    "Mount Ormond Resort": "Mount Ormond Resort",
+    "Ormond Lake Mine": "Ormond Lake Mine",
+    "The Underground Complex": "The Underground Complex",
+    "Dead Dawg Saloon": "Dead Dawg Saloon",
+    "Midwich Elementary School": "Midwich Elementary School",
+    "Raccoon City Police Station": "Raccoon City Police Station",
+    "Raccoon City Police Station East Wing": "Raccoon City Police Station East Wing",
+    "Raccoon City Police Station West Wing": "Raccoon City Police Station West Wing",
+    "Eyrie of Crows": "Eyrie of Crows",
+    "Garden of Joy": "Garden of Joy",
+    "Greenville Square": "Greenville Square",
+    "Freddy Fazbear's Pizza": "Freddy Fazbear's Pizza",
+    "The Shattered Square": "The Shattered Square",
+    "Forgotten Ruins": "Forgotten Ruins",
+    "Toba Landing": "Toba Landing",
+    "Nostromo Wreckage": "Nostromo Wreckage"
+  },
+
+  "killers": {
+    "Evan MacMillan": {
+      "name": "Evan MacMillan",
+      "title": "The Trapper"
+    },
+    "Philip Ojomo": {
+      "name": "Philip Ojomo",
+      "title": "The Wraith"
+    },
+    "Max Thompson Jr": {
+      "name": "Max Thompson Jr.",
+      "title": "The Hillbilly"
+    },
+    "Sally Smithson": {
+      "name": "Sally Smithson",
+      "title": "The Nurse"
+    },
+    "Michael Myers": {
+      "name": "Michael Myers",
+      "title": "The Shape"
+    },
+    "Lisa Sherwood": {
+      "name": "Lisa Sherwood",
+      "title": "The Hag"
+    },
+    "Herman Carter": {
+      "name": "Herman Carter",
+      "title": "The Doctor"
+    },
+    "Anna": {
+      "name": "Anna",
+      "title": "The Huntress"
+    },
+    "Bubba Sawyer": {
+      "name": "Bubba Sawyer",
+      "title": "The Cannibal"
+    },
+    "Freddy Krueger": {
+      "name": "Freddy Krueger",
+      "title": "The Nightmare"
+    },
+    "Amanda Young": {
+      "name": "Amanda Young",
+      "title": "The Pig"
+    },
+    "Jeffrey Hawk": {
+      "name": "Jeffrey Hawk",
+      "title": "The Clown"
+    },
+    "Rin Yamaoka": {
+      "name": "Rin Yamaoka",
+      "title": "The Spirit"
+    },
+    "Frank, Julie, Susie, Joey": {
+      "name": "Frank, Julie, Susie, Joey",
+      "title": "The Legion"
+    },
+    "Adiris": {
+      "name": "Adiris",
+      "title": "The Plague"
+    },
+    "Danny Johnson": {
+      "name": "Danny Johnson",
+      "title": "The Ghost Face"
+    },
+    "Demogorgon": {
+      "name": "Demogorgon",
+      "title": "The Demogorgon"
+    },
+    "Kazan Yamaoka": {
+      "name": "Kazan Yamaoka",
+      "title": "The Oni"
+    },
+    "Caleb Quinn": {
+      "name": "Caleb Quinn",
+      "title": "The Deathslinger"
+    },
+    "Pyramid Head": {
+      "name": "Pyramid Head",
+      "title": "The Executioner"
+    },
+    "Talbot Grimes": {
+      "name": "Talbot Grimes",
+      "title": "The Blight"
+    },
+    "Charlotte & Victor Deshayes": {
+      "name": "Charlotte & Victor Deshayes",
+      "title": "The Twins"
+    },
+    "Ji-Woon Hak": {
+      "name": "Ji-Woon Hak",
+      "title": "The Trickster"
+    },
+    "Nemesis T-Type": {
+      "name": "Nemesis T-Type",
+      "title": "The Nemesis"
+    },
+    "Elliot Spencer": {
+      "name": "Elliot Spencer",
+      "title": "The Cenobite"
+    },
+    "Carmina Mora": {
+      "name": "Carmina Mora",
+      "title": "The Artist"
+    },
+    "Sadako Yamamura": {
+      "name": "Sadako Yamamura",
+      "title": "The Onryō"
+    },
+    "Dredge": {
+      "name": "Dredge",
+      "title": "The Dredge"
+    },
+    "Albert Wesker": {
+      "name": "Albert Wesker",
+      "title": "The Mastermind"
+    },
+    "Tarhos Kovács": {
+      "name": "Tarhos Kovács",
+      "title": "The Knight"
+    },
+    "Adriana Imai": {
+      "name": "Adriana Imai",
+      "title": "The Skull Merchant"
+    },
+    "HUX-A7-13": {
+      "name": "HUX-A7-13",
+      "title": "The Singularity"
+    },
+    "Xenomorph": {
+      "name": "Xenomorph",
+      "title": "The Xenomorph"
+    },
+    "Charles Lee Ray": {
+      "name": "Charles Lee Ray",
+      "title": "The Good Guy"
+    },
+    "Unknown": {
+      "name": "Unknown",
+      "title": "The Unknown"
+    },
+    "Vecna": {
+      "name": "Vecna",
+      "title": "The Lich"
+    },
+    "Dracula": {
+      "name": "Dracula",
+      "title": "The Dark Lord"
+    },
+    "Portia Maye": {
+      "name": "Portia Maye",
+      "title": "The Houndmaster"
+    },
+    "Ken Kaneki": {
+      "name": "Ken Kaneki",
+      "title": "The Ghoul"
+    },
+    "William Afton": {
+      "name": "William Afton",
+      "title": "The Animatronic"
+    }
+  }
+}
