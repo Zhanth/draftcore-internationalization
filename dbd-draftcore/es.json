@@ -6,6 +6,44 @@
   "We use a single essential cookie to authenticate users": "Utilizamos una única cookie esencial para autenticar a los usuarios.",
   "No tracking technologies or third-party data sharing involved": "No se utilizan tecnologías de seguimiento ni se comparte información con terceros.",
 
+"terms": {
+  "Acceptance of Terms": "Aceptación de los Términos",
+  "Acceptance of Terms-desc": "Al usar DraftCore.net, aceptas cumplir con estos Términos y Condiciones. Si no estás de acuerdo, no utilices la plataforma.",
+  "Use of the Platform": "Uso de la Plataforma",
+  "Use of the Platform-desc": "No hay restricciones de edad ni regionales para usar DraftCore.net. Está prohibido el mal uso, incluyendo bots, spam, scraping o cualquier actividad que afecte el funcionamiento del sitio. Los usuarios pueden compartir contenido generado en la plataforma, siendo responsables de su uso.",
+  "Service Availability": "Disponibilidad del Servicio",
+  "Service Availability-desc": "DraftCore.net busca estar disponible 24/7, pero puede interrumpirse por mantenimientos programados o urgentes sin previo aviso.",
+  "Intellectual Property": "Propiedad Intelectual",
+  "Intellectual Property-desc": "Las imágenes y contenido de League of Legends y Dead by Daylight son propiedad de Riot Games y Behaviour Interactive, respectivamente. DraftCore.net eliminará dicho contenido si lo solicitan los propietarios. El contenido generado por los usuarios les pertenece, pero DraftCore.net puede usarlo para mejorar la plataforma.",
+  "Dispute Resolution": "Resolución de Disputas",
+  "Dispute Resolution-desc": "Cualquier disputa derivada del uso de la plataforma se resolverá mediante comunicación directa entre los usuarios involucrados. DraftCore.net no es responsable de las disputas que puedan surgir.",
+  "Contact": "Contacto",
+  "Contact-desc": "Para consultas, escribe a info@draftcore.net.",
+  "Modifications": "Modificaciones",
+  "Modifications-desc": "DraftCore.net puede actualizar estos términos. Los cambios serán visibles en esta sección del sitio web."
+},
+
+"privacy": {
+  "Privacy Policy": "Política de Privacidad",
+  "Privacy Policy-desc": "",
+  "Collected Data": "Datos Recolectados",
+  "Collected Data-login": "Con inicio de sesión (vía Google): Almacenamos el correo electrónico de Google y la foto de perfil indefinidamente, a menos que se solicite su eliminación. Estos datos no se comparten con terceros ni son visibles para otros usuarios, excepto para los administradores.",
+  "Collected Data-nologin": "Sin inicio de sesión: Recolectamos la dirección IP para estadísticas y registros, anonimizada y almacenada durante 7 días.",
+  "Purpose of Data": "Finalidad de los Datos",
+  "Purpose of Data-IP": "Dirección IP: Recolectada para generar estadísticas de uso del servicio, mantener registros y garantizar la seguridad y el rendimiento del servicio.",
+  "Purpose of Data-google": "Correo electrónico de Google y foto de perfil: Recolectados para autenticar a los usuarios y proporcionar una experiencia personalizada.",
+  "Third-Party Services": "Servicios de Terceros",
+  "Third-Party Services-desc": "Solo utilizamos Google para la autenticación y IPQuery para obtener una ubicación aproximada a partir de la IP.",
+  "User Rights": "Derechos del Usuario",
+  "User Rights-desc": "Puedes solicitar el acceso, la rectificación o la eliminación de tus datos enviando un correo a info@draftcore.net.",
+  "Policy Changes": "Cambios en la Política",
+  "Policy Changes-desc": "Las actualizaciones se publicarán en esta sección de DraftCore.net. En el futuro, podremos notificar a los usuarios registrados sobre los cambios por correo electrónico.",
+  "Legal Compliance": "Cumplimiento Legal",
+  "Legal Compliance-desc": "Cumplimos con las regulaciones aplicables, como el RGPD en Europa.",
+  "Contact": "Contacto",
+  "Contact-desc": "Para preguntas o solicitudes, contacta con info@draftcore.net."
+},
+
   "action": {
     "login": "Iniciar sesión",
     "got it": "Aceptar",
@@ -35,7 +73,7 @@
     "bo2": "BO2",
     "bo3": "BO3",
     "bo5": "BO5",
-    "bans": "Bans",
+    "bans": "Bloqueos",
     "additional settings": "Ajustes adicionales",
     "disable maps": "Deshabilitar mapas",
     "disable killers": "Deshabilitar asesinos",
