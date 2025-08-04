@@ -1,36 +1,62 @@
 {
-  "contact": "contact",
-  "faq": "FAQ",
-  "terms and conditions": "terms & conditions",
-  "privacy policy": "privacy policy",
-  "We use a single essential cookie to authenticate users": "We use a single essential cookie to authenticate users.",
-  "No tracking technologies or third-party data sharing involded": "No tracking technologies or third-party data sharing involded",
-
-  "draftCreator": {
-    "team": "team",
-    "format": "format",
-    "bo1": "bo1",
-    "bo2": "bo2",
-    "bo3": "bo3",
-    "bo4": "bo4",
-    "bans": "bans",
-    "adittional settings": "additional settings",
-    "disable maps": "disable maps",
-    "disable killers": "disable killers",
-    "create draft": "create draft"
-  },
+  "contact": "Contacto",
+  "faq": "Preguntas frecuentes",
+  "terms and conditions": "Términos y condiciones",
+  "privacy policy": "Política de privacidad",
+  "We use a single essential cookie to authenticate users": "Utilizamos una única cookie esencial para autenticar a los usuarios.",
+  "No tracking technologies or third-party data sharing involved": "No se utilizan tecnologías de seguimiento ni se comparte información con terceros.",
 
   "action": {
-    "login": "login",
-    "got it": "got it",
-    "cancel": "cancel",
-    "save": "save",
-    "continue": "continue",
-    "delete": "delete",
-    "create draft": "create draft",
-    "add realm": "add realm",
-    "add map": "add map",
-    "add killer": "add killer"
+    "login": "Iniciar sesión",
+    "got it": "Aceptar",
+    "cancel": "Cancelar",
+    "save": "Guardar",
+    "continue": "Continuar",
+    "delete": "Eliminar",
+    "create draft": "Crear draft",
+    "copy all": "Copiar todo",
+    "copied all": "Todo copiado",
+    "ready": "Preparado",
+    "Waiting for other team": "Esperando al otro equipo",
+    "¡": "¡",
+    "starts!": "comienza!", 
+    "ban killer": "Ban killer",
+    "lock killer": "Lock killer",
+    "lock map": "Lock map",
+    "add realm": "Añadir reino",
+    "add map": "Añadir mapa",
+    "add killer": "Añadir asesino"
+  },
+
+  "draftCreator": {
+    "team": "Equipo",
+    "format": "Formato",
+    "bo1": "BO1",
+    "bo2": "BO2",
+    "bo3": "BO3",
+    "bo5": "BO5",
+    "bans": "Bans",
+    "additional settings": "Ajustes adicionales",
+    "disable maps": "Deshabilitar mapas",
+    "disable killers": "Deshabilitar asesinos",
+    "team 1 link": "Enlace del equipo 1",
+    "team 2 link": "Enlace del equipo 2",
+    "spectator": "Espectador",
+    "stream": "Stream",
+    "admin": "Administrador",
+    "settings": "Ajustes"
+  },
+
+  "draft": {
+    "Team 1": "Equipo 1",
+    "Team 2": "Equipo 2",
+    "ban": "Ban",
+    "bans": "Bans"
+  },
+
+  "socket": {
+    "Socket connection lost": "Conexión con el servidor perdida",
+    "Socket connection established": "Conexión con el servidor establecida"
   },
 
   "dashboard": {
@@ -77,17 +103,17 @@
   },
 
   "realms": {
-    "The MacMillan Estate": "The MacMillan Estate",
-    "Autohaven Wreckers": "Autohaven Wreckers",
-    "Coldwind Farm": "Coldwind Farm",
-    "Crotus Prenn Asylum": "Crotus Prenn Asylum",
+    "The MacMillan Estate": "Finca MacMillan",
+    "Autohaven Wreckers": "Desguace Autohaven",
+    "Coldwind Farm": "Granja Coldwind",
+    "Crotus Prenn Asylum": "Asilo Crotus Prenn",
     "Haddonfield": "Haddonfield",
-    "Backwater Swamp": "Backwater Swamp",
-    "Léry's Memorial Institute": "Léry's Memorial Institute",
-    "Red Forest": "Red Forest",
+    "Backwater Swamp": "Pantano de Aguas Estancadas",
+    "Léry's Memorial Institute": "Instituto Conmemorativo Léry",
+    "Red Forest": "Bosque Rojo",
     "Springwood": "Springwood",
-    "Gideon Meat Plant": "Gideon Meat Plant",
-    "Yamaoka Estate": "Yamaoka Estate",
+    "Gideon Meat Plant": "Planta Procesadora de Carne Gideon",
+    "Yamaoka Estate": "Finca Yamaoka",
     "Ormond": "Ormond",
     "Hawkins National Laboratory": "Hawkins National Laboratory",
     "Grave of Glenvale": "Grave of Glenvale",
@@ -100,17 +126,17 @@
   },
 
   "maps": {
-    "Coal Tower": "Coal Tower",
-    "Groaning Storehouse": "Groaning Storehouse",
-    "Ironworks of Misery": "Ironworks of Misery",
-    "Shelter Woods": "Shelter Woods",
-    "Suffocation Pit": "Suffocation Pit",
-    "Azarov's Resting Place": "Azarov's Resting Place",
-    "Blood Lodge": "Blood Lodge",
-    "Gas Heaven": "Gas Heaven",
-    "Wreckers' Yard": "Wreckers' Yard",
-    "Wretched Shop": "Wretched Shop",
-    "Fractured Cowshed": "Fractured Cowshed",
+    "Coal Tower": "Torre de Carbón",
+    "Groaning Storehouse": "Depósito Quejumbroso",
+    "Ironworks of Misery": "Fundición de la Miseria",
+    "Shelter Woods": "Bosque Refugio",
+    "Suffocation Pit": "Pozo de Asfixia",
+    "Azarov's Resting Place": "Lugar de Descanso de Azarov",
+    "Blood Lodge": "Alojamiento Sangriento",
+    "Gas Heaven": "Gasolinera",
+    "Wreckers' Yard": "Desguace",
+    "Wretched Shop": "Taller Ruinoso",
+    "Fractured Cowshed": "Establo",
     "Rancid Abattoir": "Rancid Abattoir",
     "Rotten Fields": "Rotten Fields",
     "The Thompson House": "The Thompson House",
@@ -148,163 +174,164 @@
   "killers": {
     "Evan MacMillan": {
       "name": "Evan MacMillan",
-      "title": "The Trapper"
+      "title": "El Trampero"
     },
     "Philip Ojomo": {
       "name": "Philip Ojomo",
-      "title": "The Wraith"
+      "title": "El Espectro"
     },
     "Max Thompson Jr": {
       "name": "Max Thompson Jr.",
-      "title": "The Hillbilly"
+      "title": "El Pueblerino"
     },
     "Sally Smithson": {
       "name": "Sally Smithson",
-      "title": "The Nurse"
+      "title": "La Enfermera"
     },
     "Michael Myers": {
       "name": "Michael Myers",
-      "title": "The Shape"
+      "title": "La Forma"
     },
     "Lisa Sherwood": {
       "name": "Lisa Sherwood",
-      "title": "The Hag"
+      "title": "La Bruja"
     },
     "Herman Carter": {
       "name": "Herman Carter",
-      "title": "The Doctor"
+      "title": "El Doctor"
     },
     "Anna": {
       "name": "Anna",
-      "title": "The Huntress"
+      "title": "La Cazadora"
     },
     "Bubba Sawyer": {
       "name": "Bubba Sawyer",
-      "title": "The Cannibal"
+      "title": "El Caníbal"
     },
     "Freddy Krueger": {
       "name": "Freddy Krueger",
-      "title": "The Nightmare"
+      "title": "La Pesadilla"
     },
     "Amanda Young": {
       "name": "Amanda Young",
-      "title": "The Pig"
+      "title": "La Cerda"
     },
     "Jeffrey Hawk": {
       "name": "Jeffrey Hawk",
-      "title": "The Clown"
+      "title": "El Payaso"
     },
     "Rin Yamaoka": {
       "name": "Rin Yamaoka",
-      "title": "The Spirit"
+      "title": "El Espíritu"
     },
     "Frank, Julie, Susie, Joey": {
       "name": "Frank, Julie, Susie, Joey",
-      "title": "The Legion"
+      "title": "La Legión"
     },
     "Adiris": {
       "name": "Adiris",
-      "title": "The Plague"
+      "title": "La Plaga"
     },
     "Danny Johnson": {
       "name": "Danny Johnson",
-      "title": "The Ghost Face"
+      "title": "Ghost Face"
     },
     "Demogorgon": {
       "name": "Demogorgon",
-      "title": "The Demogorgon"
+      "title": "El Demogorgon"
     },
     "Kazan Yamaoka": {
       "name": "Kazan Yamaoka",
-      "title": "The Oni"
+      "title": "El Oni"
     },
     "Caleb Quinn": {
       "name": "Caleb Quinn",
-      "title": "The Deathslinger"
+      "title": "El Arponero"
     },
     "Pyramid Head": {
       "name": "Pyramid Head",
-      "title": "The Executioner"
+      "title": "El Verdugo"
     },
     "Talbot Grimes": {
       "name": "Talbot Grimes",
-      "title": "The Blight"
+      "title": "El Deterioro"
     },
     "Charlotte & Victor Deshayes": {
       "name": "Charlotte & Victor Deshayes",
-      "title": "The Twins"
+      "title": "Los Mellizos"
     },
     "Ji-Woon Hak": {
       "name": "Ji-Woon Hak",
-      "title": "The Trickster"
+      "title": "El Embaucador"
     },
     "Nemesis T-Type": {
       "name": "Nemesis T-Type",
-      "title": "The Nemesis"
+      "title": "La Némesis"
     },
     "Elliot Spencer": {
       "name": "Elliot Spencer",
-      "title": "The Cenobite"
+      "title": "El Cenobita"
     },
     "Carmina Mora": {
       "name": "Carmina Mora",
-      "title": "The Artist"
+      "title": "La Artista"
     },
     "Sadako Yamamura": {
       "name": "Sadako Yamamura",
-      "title": "The Onryō"
+      "title": "La Onryō"
     },
     "Dredge": {
       "name": "Dredge",
-      "title": "The Dredge"
+      "title": "La Draga"
     },
     "Albert Wesker": {
       "name": "Albert Wesker",
-      "title": "The Mastermind"
+      "title": "La Mente Maestra"
     },
     "Tarhos Kovács": {
       "name": "Tarhos Kovács",
-      "title": "The Knight"
+      "title": "El Caballero"
     },
     "Adriana Imai": {
       "name": "Adriana Imai",
-      "title": "The Skull Merchant"
+      "title": "La Comerciante de Calaveras"
     },
     "HUX-A7-13": {
       "name": "HUX-A7-13",
-      "title": "The Singularity"
+      "title": "La Singularidad"
     },
     "Xenomorph": {
       "name": "Xenomorph",
-      "title": "The Xenomorph"
+      "title": "El Xenomorfo"
     },
     "Charles Lee Ray": {
       "name": "Charles Lee Ray",
-      "title": "The Good Guy"
+      "title": "El Chico Bueno"
     },
     "Unknown": {
       "name": "Unknown",
-      "title": "The Unknown"
+      "title": "Lo Desconocido"
     },
     "Vecna": {
       "name": "Vecna",
-      "title": "The Lich"
+      "title": "El Liche"
     },
     "Dracula": {
       "name": "Dracula",
-      "title": "The Dark Lord"
+      "title": "El Señor Oscuro"
     },
     "Portia Maye": {
       "name": "Portia Maye",
-      "title": "The Houndmaster"
+      "title": "La Señora de los Sabuesos"
     },
     "Ken Kaneki": {
       "name": "Ken Kaneki",
-      "title": "The Ghoul"
+      "title": "El Ghoul"
     },
     "William Afton": {
       "name": "William Afton",
-      "title": "The Animatronic"
+      "title": "El Animatrónico"
     }
   }
+
 }

@@ -1,36 +1,62 @@
 {
-  "contact": "contact",
+  "contact": "Contact",
   "faq": "FAQ",
-  "terms and conditions": "terms & conditions",
-  "privacy policy": "privacy policy",
+  "terms and conditions": "Terms & Conditions",
+  "privacy policy": "Privacy Policy",
   "We use a single essential cookie to authenticate users": "We use a single essential cookie to authenticate users.",
-  "No tracking technologies or third-party data sharing involded": "No tracking technologies or third-party data sharing involded",
-
-  "draftCreator": {
-    "team": "team",
-    "format": "format",
-    "bo1": "bo1",
-    "bo2": "bo2",
-    "bo3": "bo3",
-    "bo4": "bo4",
-    "bans": "bans",
-    "adittional settings": "additional settings",
-    "disable maps": "disable maps",
-    "disable killers": "disable killers",
-    "create draft": "create draft"
-  },
+  "No tracking technologies or third-party data sharing involved": "No tracking technologies or third-party data sharing involved",
 
   "action": {
-    "login": "login",
-    "got it": "got it",
-    "cancel": "cancel",
-    "save": "save",
-    "continue": "continue",
-    "delete": "delete",
-    "create draft": "create draft",
-    "add realm": "add realm",
-    "add map": "add map",
-    "add killer": "add killer"
+    "login": "Login",
+    "got it": "Got it",
+    "cancel": "Cancel",
+    "save": "Save",
+    "continue": "Continue",
+    "delete": "Delete",
+    "create draft": "Create draft",
+    "copy all": "Copy all",
+    "copied all": "Copied all",
+    "ready": "Ready",
+    "Waiting for other team": "Waiting for other team",
+    "¡": "",
+    "starts!": "starts!",
+    "ban killer": "Ban killer",
+    "lock killer": "Lock killer",
+    "lock map": "Lock map",
+    "add realm": "Add realm",
+    "add map": "Add map",
+    "add killer": "Add killer"
+  },
+
+  "draftCreator": {
+    "team": "Team",
+    "format": "Format",
+    "bo1": "BO1",
+    "bo2": "BO2",
+    "bo3": "BO3",
+    "bo5": "BO5",
+    "bans": "Bans",
+    "additional settings": "Additional settings",
+    "disable maps": "Disable maps",
+    "disable killers": "Disable killers",
+    "team 1 link": "Team 1 link",
+    "team 2 link": "Team 2 link",
+    "spectator": "Spectator",
+    "stream": "Stream",
+    "admin": "Admin",
+    "settings": "Settings"
+  },
+
+  "draft": {
+    "Team 1": "Team 1",
+    "Team 2": "Team 2",
+    "ban": "Ban",
+    "bans": "Bans"
+  },
+
+  "socket": {
+    "Socket connection lost": "Server connection lost",
+    "Socket connection established": "Server connection established"
   },
 
   "dashboard": {
