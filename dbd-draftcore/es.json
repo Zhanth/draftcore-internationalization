@@ -20,9 +20,9 @@
     "Waiting for other team": "Esperando al otro equipo",
     "¡": "¡",
     "starts!": "comienza!", 
-    "ban killer": "Ban killer",
-    "lock killer": "Lock killer",
-    "lock map": "Lock map",
+    "ban killer": "Bloquear asesino",
+    "lock killer": "Fijar asesino",
+    "lock map": "Fijar mapa",
     "add realm": "Añadir reino",
     "add map": "Añadir mapa",
     "add killer": "Añadir asesino"
@@ -50,8 +50,8 @@
   "draft": {
     "Team 1": "Equipo 1",
     "Team 2": "Equipo 2",
-    "ban": "Ban",
-    "bans": "Bans"
+    "ban": "Bloqueo",
+    "bans": "Bloqueos"
   },
 
   "socket": {
