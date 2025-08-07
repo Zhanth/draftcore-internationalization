@@ -159,44 +159,44 @@
 
   "dashboard": {
     "tabs": {
-      "general": "general",
-      "users": "users",
-      "drafts": "drafts",
-      "realms": "realms",
-      "maps": "maps",
-      "killers": "killers"
+      "general": "General",
+      "users": "Usuarios",
+      "drafts": "Drafts",
+      "realms": "Reinos",
+      "maps": "Mapas",
+      "killers": "Asesinos"
     },
     "general": {
-      "drafts created": "drafts created",
-      "users": "users",
-      "maps": "maps",
-      "killers": "killers"
+      "drafts created": "drafts creados",
+      "users": "usuarios",
+      "maps": "mapas",
+      "killers": "asesinos"
     },
     "users": {
       "ID": "ID",
-      "name": "name",
-      "permissions": "permissions",
-      "actions": "actions"
+      "name": "Nombre",
+      "permissions": "Permisos",
+      "actions": "Acciones"
     },
     "drafts": {
       "ID": "ID",
-      "teams": "teams",
-      "format": "format",
-      "bans": "bans",
-      "created": "created",
-      "actions": "actions"
+      "teams": "Equipos",
+      "format": "Formato",
+      "bans": "Bloqueos",
+      "created": "Fecha",
+      "actions": "Acciones"
     },
     "realms": {
-      "image": "image",
-      "name": "name",
-      "maps": "maps",
-      "actions": "actions",
-      "Create realm": "Create realm",
-      "Enter the details for the new realm": "Enter the details for the new realm.",
-      "Realm name": "Realm name",
-      "name placeholder": "name",
-      "Realm image URL": "Realm image URL",
-      "url placeholder": "image URL"
+      "image": "Imagen",
+      "name": "Nombre",
+      "maps": "Mapas",
+      "actions": "Acciones",
+      "Create realm": "Crear reino",
+      "Enter the details for the new realm": "Introduce los detalles para el nuevo reino.",
+      "Realm name": "Nombre del reino",
+      "name placeholder": "Nombre",
+      "Realm image URL": "Enlace de la imagen del reino",
+      "url placeholder": "Enlace de la imagen"
     }
   },
 

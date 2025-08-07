@@ -159,12 +159,12 @@
 
   "dashboard": {
     "tabs": {
-      "general": "general",
-      "users": "users",
-      "drafts": "drafts",
-      "realms": "realms",
-      "maps": "maps",
-      "killers": "killers"
+      "general": "General",
+      "users": "Users",
+      "drafts": "Drafts",
+      "realms": "Realms",
+      "maps": "Maps",
+      "killers": "Killers"
     },
     "general": {
       "drafts created": "drafts created",
@@ -174,29 +174,29 @@
     },
     "users": {
       "ID": "ID",
-      "name": "name",
-      "permissions": "permissions",
-      "actions": "actions"
+      "name": "Name",
+      "permissions": "Permissions",
+      "actions": "Actions"
     },
     "drafts": {
       "ID": "ID",
-      "teams": "teams",
-      "format": "format",
-      "bans": "bans",
-      "created": "created",
-      "actions": "actions"
+      "teams": "Teams",
+      "format": "Format",
+      "bans": "Bans",
+      "created": "Created",
+      "actions": "Actions"
     },
     "realms": {
-      "image": "image",
-      "name": "name",
-      "maps": "maps",
-      "actions": "actions",
+      "image": "Image",
+      "name": "Name",
+      "maps": "Maps",
+      "actions": "Actions",
       "Create realm": "Create realm",
       "Enter the details for the new realm": "Enter the details for the new realm.",
       "Realm name": "Realm name",
-      "name placeholder": "name",
+      "name placeholder": "Name",
       "Realm image URL": "Realm image URL",
-      "url placeholder": "image URL"
+      "url placeholder": "Image URL"
     }
   },
 
