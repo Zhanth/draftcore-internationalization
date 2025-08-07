@@ -6,6 +6,12 @@
   "We use a single essential cookie to authenticate users": "We use a single essential cookie to authenticate users.",
   "No tracking technologies or third-party data sharing involved": "No tracking technologies or third-party data sharing involved",
 
+  "NotFound": {
+    "title": "Page not found",
+    "description": "The page you are looking for does not exist or has been moved.",
+    "button": "Return to the home page"
+  },
+
   "terms": {
     "Acceptance of Terms": "Acceptance of Terms",
     "Acceptance of Terms-desc": "By using DraftCore.net, you agree to comply with these Terms and Conditions. If you do not agree, do not use the platform.",
@@ -95,6 +101,60 @@
   "socket": {
     "Socket connection lost": "Server connection lost",
     "Socket connection established": "Server connection established"
+  },
+
+  "date": {
+    "day": {
+      "mon": "mon",
+      "tue": "tue",
+      "wed": "wed",
+      "thu": "thu",
+      "fri": "fri",
+      "sat": "sat",
+      "sun": "sun",
+      "monday": "monday",
+      "tuesday": "tuesday",
+      "wednesday": "wednesday",
+      "thursday": "thursday",
+      "friday": "friday",
+      "saturday": "saturday",
+      "sunday": "sunday"
+    },
+    "month": {
+      "jan": "jan",
+      "feb": "feb",
+      "mar": "mar",
+      "apr": "apr",
+      "may": "may",
+      "jun": "jun",
+      "jul": "jul",
+      "aug": "aug",
+      "sep": "sep",
+      "oct": "oct",
+      "nov": "nov",
+      "dec": "dec",
+      "january": "january",
+      "february": "february",
+      "march": "march",
+      "april": "april",
+      "june": "june",
+      "july": "july",
+      "august": "august",
+      "september": "september",
+      "october": "october",
+      "november": "november",
+      "december": "december"
+    },
+    "time": {
+      "year": "year",
+      "month": "month",
+      "day": "day",
+      "hour": "hour",
+      "minute": "minute",
+      "second": "second",
+      "am": "am",
+      "pm": "pm"
+    }
   },
 
   "dashboard": {
