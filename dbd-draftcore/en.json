@@ -197,6 +197,20 @@
       "name placeholder": "Name",
       "Realm image URL": "Realm image URL",
       "url placeholder": "Image URL"
+    },
+    "maps": {
+      "image": "Image",
+      "name": "Name",
+      "realm": "Realm",
+      "variations": "Variations",
+      "actions": "Actions"
+    },
+    "killers": {
+      "portrait image": "Portrait image",
+      "square image": "Square image",
+      "name": "Name",
+      "title": "Title",
+      "actions": "Actions"
     }
   },
 

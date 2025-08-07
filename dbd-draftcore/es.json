@@ -197,6 +197,20 @@
       "name placeholder": "Nombre",
       "Realm image URL": "Enlace de la imagen del reino",
       "url placeholder": "Enlace de la imagen"
+    },
+    "maps": {
+      "image": "Imagen",
+      "name": "Nombre",
+      "realm": "Reino",
+      "variations": "Variaciones",
+      "actions": "Acciones"
+    },
+    "killers": {
+      "portrait image": "Imagen de perfil",
+      "square image": "Imagen cuadrada",
+      "name": "Nombre",
+      "title": "Título",
+      "actions": "Acciones"
     }
   },
 
