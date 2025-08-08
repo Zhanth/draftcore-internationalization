@@ -57,6 +57,7 @@
     "save": "Guardar",
     "continue": "Continuar",
     "delete": "Eliminar",
+    "return to homepage": "Volver a la página principal",
     "create draft": "Crear draft",
     "copy all": "Copiar todo",
     "copied all": "Todo copiado",
@@ -170,7 +171,10 @@
       "drafts created": "drafts creados",
       "users": "usuarios",
       "maps": "mapas",
-      "killers": "asesinos"
+      "killers": "asesinos",
+      "user connected": "{number} usuario conectado",
+      "users connected": "{number} usuarios conectados",
+      "no users connected": "No hay usuarios conectados"
     },
     "users": {
       "ID": "ID",
@@ -191,26 +195,55 @@
       "name": "Nombre",
       "maps": "Mapas",
       "actions": "Acciones",
-      "Create realm": "Crear reino",
-      "Enter the details for the new realm": "Introduce los detalles para el nuevo reino.",
-      "Realm name": "Nombre del reino",
+      "create realm": "Crear reino",
+      "enter the details for the new realm": "Introduce los detalles para el nuevo reino.",
+      "realm name": "Nombre del reino",
       "name placeholder": "Nombre",
-      "Realm image URL": "Enlace de la imagen del reino",
-      "url placeholder": "Enlace de la imagen"
+      "realm image URL": "Enlace de la imagen del reino",
+      "url placeholder": "Enlace de la imagen",
+      "edit realm": "Editar reino {name}",
+      "delete confirm title": "¿Estás absolutamente seguro?",
+      "delete confirm description": "Esta acción no se puede deshacer. Esto eliminará permanentemente el reino {name} y borrará sus datos de nuestro servidor."
     },
     "maps": {
       "image": "Imagen",
       "name": "Nombre",
       "realm": "Reino",
+      "unknown": "Desconocido",
       "variations": "Variaciones",
-      "actions": "Acciones"
+      "actions": "Acciones",
+      "create map": "Crear mapa",
+      "enter the details for the new map": "Introduce los detalles para el nuevo mapa.",
+      "select realm placeholder": "Selecciona un reino",
+      "map name": "Nombre del mapa",
+      "map name placeholder": "Nombre",
+      "map image URL": "Enlace de la imagen del mapa",
+      "map url placeholder": "Enlace de la imagen",
+      "map variations": "Variaciones",
+      "map variations placeholder": "Introduce las variaciones separadas por comas",
+      "edit map": "Editar mapa {name}",
+      "delete confirm title": "¿Estás absolutamente seguro?",
+      "delete confirm description": "Esta acción no se puede deshacer. Esto eliminará permanentemente el mapa {name} y borrará sus datos de nuestro servidor."
     },
     "killers": {
       "portrait image": "Imagen de perfil",
       "square image": "Imagen cuadrada",
       "name": "Nombre",
       "title": "Título",
-      "actions": "Acciones"
+      "actions": "Acciones",
+      "create killer": "Crear asesino",
+      "enter the details for the new killer": "Introduce los detalles para el nuevo asesino.",
+      "killer name": "Nombre del asesino",
+      "killer name placeholder": "Nombre",
+      "killer title": "Título del asesino",
+      "killer title placeholder": "Título",
+      "killer portrait image URL": "Enlace de la imagen de perfil",
+      "killer portrait placeholder": "Enlace de la imagen de perfil",
+      "killer square image URL": "Enlace de la imagen cuadrada",
+      "killer square placeholder": "Enlace de la imagen cuadrada",
+      "edit killer": "Editar asesino {name}",
+      "delete confirm title": "¿Estás absolutamente seguro?",
+      "delete confirm description": "Esta acción no se puede deshacer. Esto eliminará permanentemente el asesino {name} y borrará sus datos de nuestro servidor."
     }
   },
 

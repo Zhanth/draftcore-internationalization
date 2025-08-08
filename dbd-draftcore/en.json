@@ -57,6 +57,7 @@
     "save": "Save",
     "continue": "Continue",
     "delete": "Delete",
+    "return to homepage": "Return to homepage",
     "create draft": "Create draft",
     "copy all": "Copy all",
     "copied all": "Copied all",
@@ -170,7 +171,10 @@
       "drafts created": "drafts created",
       "users": "users",
       "maps": "maps",
-      "killers": "killers"
+      "killers": "killers",
+      "user connected": "{number} user connected",
+      "users connected": "{number} users connected",
+      "no users connected": "No users connected"
     },
     "users": {
       "ID": "ID",
@@ -191,26 +195,55 @@
       "name": "Name",
       "maps": "Maps",
       "actions": "Actions",
-      "Create realm": "Create realm",
-      "Enter the details for the new realm": "Enter the details for the new realm.",
-      "Realm name": "Realm name",
+      "create realm": "Create realm",
+      "enter the details for the new realm": "Enter the details for the new realm.",
+      "realm name": "Realm name",
       "name placeholder": "Name",
-      "Realm image URL": "Realm image URL",
-      "url placeholder": "Image URL"
+      "realm image URL": "Realm image URL",
+      "url placeholder": "Image URL",
+      "edit realm": "Edit {name} realm",
+      "delete confirm title": "Are you absolutely sure?",
+      "delete confirm description": "This action cannot be undone. This will permanently delete {name} realm and remove the data from our server."
     },
     "maps": {
       "image": "Image",
       "name": "Name",
       "realm": "Realm",
+      "unknown": "Unknown",
       "variations": "Variations",
-      "actions": "Actions"
+      "actions": "Actions",
+      "create map": "Create map",
+      "enter the details for the new map": "Enter the details for the new map.",
+      "select realm placeholder": "Select a realm",
+      "map name": "Map name",
+      "map name placeholder": "Name",
+      "map image URL": "Map image URL",
+      "map url placeholder": "Image URL",
+      "map variations": "Variations",
+      "map variations placeholder": "Enter variations separated by commas",
+      "edit map": "Edit {name} map",
+      "delete confirm title": "Are you absolutely sure?",
+      "delete confirm description": "This action cannot be undone. This will permanently delete {name} map and remove the data from our server."
     },
     "killers": {
       "portrait image": "Portrait image",
       "square image": "Square image",
       "name": "Name",
       "title": "Title",
-      "actions": "Actions"
+      "actions": "Actions",
+      "create killer": "Create killer",
+      "enter the details for the new killer": "Enter the details for the new killer.",
+      "killer name": "Killer name",
+      "killer name placeholder": "Name",
+      "killer title": "Killer title",
+      "killer title placeholder": "Title",
+      "killer portrait image URL": "Portrait Image URL",
+      "killer portrait placeholder": "Portrait Image URL",
+      "killer square image URL": "Square Image URL",
+      "killer square placeholder": "Square Image URL",
+      "edit killer": "Edit {name} killer",
+      "delete confirm title": "Are you absolutely sure?",
+      "delete confirm description": "This action cannot be undone. This will permanently delete {name} killer and remove the data from our server."
     }
   },
 
